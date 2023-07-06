@@ -1,21 +1,24 @@
-import './Skills.css'
+import "./Skills.css";
 
 function Skills() {
-  return (
-    <div className='skills'>
-        <h2 className='tabs-heading'>Skills</h2>
-            <div className="skills-container">
-              <span className='skill'>ReactJS</span>
-              <span className='skill'>JavaScript</span>
-              <span className='skill'>HTML</span>
-              <span className='skill'>CSS</span>
-              <span className='skill'>Responsive Design</span>
-              <span className='skill'>Git</span>
-              <span className='skill'>GitHub</span>
-              <span className='skill'>Figma</span>
-            </div>
-    </div>
-  )
+	return (
+		<div className="skills">
+			<h2 className="tabs-heading">Skills</h2>
+			<div className="skills-container">
+				<span className="skill">SQL</span>
+				<span className="skill">MongoDB</span>
+				<span className="skill">ExpressJS</span>
+				<span className="skill">NextJS</span>
+				<span className="skill">ReactJS</span>
+				<span className="skill">NodeJS</span>
+        <span className="skill">EtherJS</span>
+				<span className="skill">Solidity</span>
+        <span className="skill">Java</span>
+        <span className="skill">Python</span>
+        <span className="skill">Flask</span>
+			</div>
+		</div>
+	);
 }
 
-export default Skills
+export default Skills;

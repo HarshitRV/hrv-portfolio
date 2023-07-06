@@ -1,12 +1,12 @@
 [
   {
     "type": "web app",
-    "stack": "Vanilla JavaScript",
-    "title": "Snake Game 🐍",
-    "description": "Simple snake game for desktop, built using vanilla JavaScript. Submitted this project during the MLH Global Hack Week, Jan'23.",
+    "stack": "MongoDB, ExpressJS, NextJS, NodeJS, Solidity, EtherJS",
+    "title": "Secure Share dApp",
+    "description": "A decentralized application that allows users to share files securely using blockchain technology.",
     "platform": "GitHub",
-    "link": "https://github.com/Hritvik-Mohan/Snake-Game-JavaScript",
-    "deploy": "https://hritvik-mohan.github.io/Snake-Game-JavaScript/",
+    "link": "https://github.com/HarshitRV/SecureShareDapp",
+    "deploy": "https://securesharedapp.vercel.app/",
     "style": {
       "border": "2px solid #53BF9D"
     },
@@ -19,61 +19,7 @@
   },
   {
     "type": "web app",
-    "stack": "Vanilla JavaScript",
-    "title": "Password Generator 🔑",
-    "description": "Generate secure and complex passwords. Submitted this project during the MLH Global Hack Week, Jan'23.",
-    "platform": "GitHub",
-    "link": "https://github.com/Hritvik-Mohan/password-generator",
-    "deploy": "https://hritvik-mohan.github.io/password-generator/",
-    "style": {
-      "border": "2px solid #764AF1"
-    },
-    "color": {
-      "color": "#764AF1"
-    },
-    "buttonCSS": {
-      "border": "1px solid #764AF1"
-    }
-  },
-  {
-    "type": "web app",
-    "stack": "ReactJS ImgFlip API",
-    "title": "Meme Generator 🖼️",
-    "description": "Add your own text and create a new meme.",
-    "platform": "GitHub",
-    "link": "https://github.com/Hritvik-Mohan/meme-generator",
-    "deploy": "https://hm-meme-generator.netlify.app/",
-    "style": {
-      "border": "2px solid #CE195A"
-    },
-    "color": {
-      "color": "#690026"
-    },
-    "buttonCSS": {
-      "border": "1px solid #CE195A"
-    }
-  },
-  {
-    "type": "web app",
-    "stack": "JavaScript ReactJS",
-    "title": "Notes App 📝",
-    "description": "Simple note taking app built using ReactJS.",
-    "platform": "GitHub",
-    "link": "https://github.com/Hritvik-Mohan/Notes",
-    "deploy": "https://hm-note.netlify.app/",
-    "style": {
-      "border": "2px solid #C4A146"
-    },
-    "color": {
-      "color": "#725200"
-    },
-    "buttonCSS": {
-      "border": "1px solid #C4A146"
-    }
-  },
-  {
-    "type": "web app",
-    "stack": "NodeJS MongoDB Stripe CSS EJS",
+    "stack": "ExpressJS NodeJS MongoDB Stripe CSS EJS",
     "title": "Auction App 💵",
     "description": "Online Auction System, an e-commerce application to create and hold auctions on the web",
     "platform": "GitHub",
@@ -90,13 +36,67 @@
     }
   },
   {
-    "type": "UI/UX",
-    "stack": "Figma",
-    "title": "Auction App 💸",
-    "description": "Web app that holds auctions on the internet. UI designed in a minimal fashion for the user to create their own auctions and bid on products.",
-    "platform": "Behance",
-    "link": "https://www.behance.net/gallery/148350933/Auction-App",
-    "deploy": "https://www.behance.net/gallery/148350933/Auction-App",
+    "type": "web app",
+    "stack": "Python Flask SQLite",
+    "title": "Blog Website 📝",
+    "description": "My Personal Blog Website",
+    "platform": "GitHub",
+    "link": "https://github.com/HarshitRV/HarshitRVBlogsite",
+    "deploy": "https://harshitrvblog.onrender.com/",
+    "style": {
+      "border": "2px solid #764AF1"
+    },
+    "color": {
+      "color": "#764AF1"
+    },
+    "buttonCSS": {
+      "border": "1px solid #764AF1"
+    }
+  },
+  {
+    "type": "web app",
+    "stack": "ReactJS",
+    "title": "Food Cart App 🍔",
+    "description": "A food order app to demonstrate the cart functionality in ReactJS.",
+    "platform": "GitHub",
+    "link": "https://github.com/HarshitRV/FoodOrderApp",
+    "deploy": "https://foodcartapp.netlify.app/",
+    "style": {
+      "border": "2px solid #CE195A"
+    },
+    "color": {
+      "color": "#690026"
+    },
+    "buttonCSS": {
+      "border": "1px solid #CE195A"
+    }
+  },
+  {
+    "type": "web app",
+    "stack": "ExpressJS NodeJS EJS",
+    "title": "Chat App 💬",
+    "description": "Chatapp for online chatting with friends",
+    "platform": "GitHub",
+    "link": "https://github.com/HarshitRV/ChatApp",
+    "deploy": "https://hm-note.netlify.app/",
+    "style": {
+      "border": "2px solid #C4A146"
+    },
+    "color": {
+      "color": "#725200"
+    },
+    "buttonCSS": {
+      "border": "1px solid #C4A146"
+    }
+  },
+  {
+    "type": "web app",
+    "stack": "MongoDB, ExpressJS, ReactJS, NodeJS",
+    "title": "Sarcasm App 🤣",
+    "description": "A web app that give you random Chandler Bing sarcastic comments",
+    "platform": "GitHub",
+    "link": "https://github.com/HarshitRV/sarcasmapi-frontend",
+    "deploy": "https://sarcasmapi.netlify.app/",
     "style": {
       "border": "2px solid #CE195A"
     },

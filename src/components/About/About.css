@@ -7,13 +7,11 @@
     letter-spacing: 0.1px;
 }
 
-.bio-img-text-container {
-}
 
 .bio-heading {
     font-weight: 500;
     color: #5944E4;
-    font-size: 3rem;
+    font-size: 2.5rem;
     /* padding-bottom: 0.6rem; */
 }
 
@@ -29,11 +27,6 @@
     border-radius: 50%;
 }
 
-.bio-img-head-wrapper {
-    /* display: flex;
-    align-items: center;
-    gap: 2rem; */
-}
 
 .bio-container {
     margin-bottom: 4rem;
@@ -52,8 +45,6 @@
 }
 
 @media (min-width: 600px) {
-    .about {
-    }
 
     .bio-img-text-container {
         display: flex;
