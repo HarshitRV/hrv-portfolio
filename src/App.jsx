@@ -3,7 +3,6 @@ import './App.css'
 import Header from './components/Header/Header'
 import About from './components/About/About'
 import Education from './components/Education/Education'
-import Home from './components/Home'
 import Projects from './components//Projects/Projects'
 import Blogs from './components/Blogs/Blogs'
 

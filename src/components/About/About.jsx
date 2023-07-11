@@ -10,7 +10,7 @@ function About() {
         <div className='bio-container'>
             <h2 className='bio-heading'>Hi, I'm Harshit Kr Vishwakarma.</h2>
             {/* <div className='bio-hr'></div> */}
-            <p>Welcome I'm a <span className='active-tab'>Fullstack Developer</span> currently pursuing my Master's of Computer Application from VIT Vellore. I have a strong passion for web development with expertise in Backend Development. </p>
+            <p>Welcome I'm a <span className='active-tab'>Full-Stack Developer</span> currently pursuing my Master's of Computer Application from VIT Vellore. I have a strong passion for web development with expertise in Backend Development. </p>
             <p>I also have experience in creating decentralized application on Blockchain aka web3.</p>
         </div>
       </div>

@@ -1,8 +1,26 @@
 [
   {
+    "type": "discord app",
+    "stack": "ExpressJS, NodeJS, DiscordJS",
+    "title": "Levi - Discord Bot 🤖",
+    "description": "A Discord bot equipped with chatGPT to answer your questions.",
+    "platform": "GitHub",
+    "link": "https://github.com/HarshitRV/Levi",
+    "deploy": "https://bit.ly/3NJUkb9",
+    "style": {
+      "border": "2px solid #53BF9D"
+    },
+    "color": {
+      "color": "#53BF9D"
+    },
+    "buttonCSS": {
+      "border": "1px solid #53BF9D"
+    }
+  },
+  {
     "type": "web app",
     "stack": "MongoDB, ExpressJS, NextJS, NodeJS, Solidity, EtherJS",
-    "title": "Secure Share dApp",
+    "title": "Secure Share dApp ⛓️",
     "description": "A decentralized application that allows users to share files securely using blockchain technology.",
     "platform": "GitHub",
     "link": "https://github.com/HarshitRV/SecureShareDapp",
