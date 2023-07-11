@@ -96,7 +96,7 @@
     "description": "Chatapp for online chatting with friends",
     "platform": "GitHub",
     "link": "https://github.com/HarshitRV/ChatApp",
-    "deploy": "https://hm-note.netlify.app/",
+    "deploy": "https://chatroom-pldm.onrender.com/",
     "style": {
       "border": "2px solid #C4A146"
     },
