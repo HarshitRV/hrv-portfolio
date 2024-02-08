@@ -7,6 +7,9 @@ import Projects from './components//Projects/Projects'
 import Blogs from './components/Blogs/Blogs'
 
 function App() {
+  const redirectTo = () => {
+    window.location.replace("https://www.google.com/")
+  }
 
   return (
     <div className="App">
@@ -16,8 +19,9 @@ function App() {
         <h2 className='tabs'>
           {/* <span>All</span> */}
           <NavLink className={({ isActive }) => (isActive ? 'active-tab ' : 'tab')} to="/">Home</NavLink>
+          <button onClick={redirectTo}>REDIRECT</button>
           {/* <Link to="/about">About</Link> */}
-          <NavLink className={({ isActive }) => (isActive ? 'active-tab ' : 'tab')} to="/projects">Portfolio</NavLink>
+          {/* <NavLink className={({ isActive }) => (isActive ? 'active-tab ' : 'tab')} to="/projects">Portfolio</NavLink> */}
           {/* <Link to="/blogs">Blogs</Link> */}
           {/* <span>UI UX</span> */}
           {/* <NavLink className={({ isActive }) => (isActive ? 'active-tab ' : 'tab')} to="/education">Education</NavLink> */}
