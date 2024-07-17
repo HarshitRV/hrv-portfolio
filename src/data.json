@@ -1,6 +1,24 @@
 {
 	"portfolio": [
 		{
+			"type": "npm package",
+			"stack": "node, react, vite, typescript",
+			"title": "react-highlightable-input ✨",
+			"description": "A custom react input component that allows highlighting of specific text as it is typed in.",
+			"platform": "GitHub",
+			"link": "https://github.com/HarshitRV/react-highlightable-input",
+			"deploy": "https://npmjs.com/package/react-highlightable-input",
+			"style": {
+				"border": "2px solid #bd2e33"
+			},
+			"color": {
+				"color": "#bd2e33"
+			},
+			"buttonCSS": {
+				"border": "1px solid #bd2e33"
+			}
+		},
+		{
 			"type": "web app",
 			"stack": "ExpressJS, NodeJS, twitter-api-v2",
 			"title": "X-Bot: Automate tweets 🕊️",
